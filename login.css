@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');;
+
+root{
+    --cor-primaria: 3;
+    --cor-primaria-escura: #;
+    --cor-bg: #f5f7e5;
+    --cor-branco: #fff;
+    --cor-borda: #ddd;
+    --cor-sombra: rgba(0,0,0,0.15);
+    --cor-texto: #333;
+    --fonte: 'Pixelify', sans-serif;
+    --raio: 12px;
+    --transition: 0.3s ease;
+}
