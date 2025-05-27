@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');;
 
 root{
-    --cor-primaria: 3;
-    --cor-primaria-escura: #;
+    --cor-primaria: #306BAC;
+    --cor-primaria-escura: #141B41;
     --cor-bg: #f5f7e5;
     --cor-branco: #fff;
     --cor-borda: #ddd;
@@ -11,4 +11,17 @@ root{
     --fonte: 'Pixelify', sans-serif;
     --raio: 12px;
     --transition: 0.3s ease;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: var(--fonte);
+    background: #005c7d;
+    background: linear-gradient(236deg, rgba(0, 92, 125, 1) 0%, rgba(0, 110, 5, 1) 22%, rgba(23, 0, 105, 1) 86%, rgba(0, 133, 102, 1) 100%);
 }
