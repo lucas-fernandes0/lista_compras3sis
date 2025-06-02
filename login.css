@@ -46,3 +46,13 @@ body{
     margin-bottom: 1.5rem;
     font-weight: 500;
 }
+
+.input{
+    width: 100%;
+    padding: 14px;
+    margin: 10px 0;
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio);
+    font-size: 1rem;
+    transition: var(--transition);
+}
