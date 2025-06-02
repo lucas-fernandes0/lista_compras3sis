@@ -25,3 +25,20 @@ body{
     background: #005c7d;
     background: linear-gradient(236deg, rgba(0, 92, 125, 1) 0%, rgba(0, 110, 5, 1) 22%, rgba(23, 0, 105, 1) 86%, rgba(0, 133, 102, 1) 100%), no-repeat;
 }
+
+.conteiner{
+    background: var(--cor-bg);
+    padding: clamp(2rem, 5vw, 3rem);
+    border-radius: var(--raio);
+    box-shadow: 0 8px 24px var(--cor-sombra);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.titulo{
+    font-size: clamp(1.5rem, 2vw + 1rem, 2rem);
+    color: var(--cor-texto);
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+}
