@@ -9,7 +9,7 @@ root{
     --cor-sombra: rgba(0,0,0,0.15);
     --cor-texto: #333;
     --fonte: 'Pixelify', sans-serif;
-    --raio: 12px;
+    --raio: 0.8rem;
     --transition: 0.3s ease;
 }
 
