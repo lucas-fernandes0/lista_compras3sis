@@ -23,5 +23,5 @@ root{
 body{
     font-family: var(--fonte);
     background: #005c7d;
-    background: linear-gradient(236deg, rgba(0, 92, 125, 1) 0%, rgba(0, 110, 5, 1) 22%, rgba(23, 0, 105, 1) 86%, rgba(0, 133, 102, 1) 100%);
+    background: linear-gradient(236deg, rgba(0, 92, 125, 1) 0%, rgba(0, 110, 5, 1) 22%, rgba(23, 0, 105, 1) 86%, rgba(0, 133, 102, 1) 100%), no-repeat;
 }
