@@ -56,3 +56,9 @@ body{
     font-size: 1rem;
     transition: var(--transition);
 }
+
+input:focus{
+    border-color: var(--cor-primaria);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(107, 115, 255, 0.25);
+}
