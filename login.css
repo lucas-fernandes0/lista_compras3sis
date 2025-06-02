@@ -78,7 +78,7 @@ button{
     border-radius: var(--raio);
     background-color: var(--cor-primaria);
     transition: var(--transition);
-    cursor: pointer;]
+    cursor: pointer;
 }
 
 button:hover{
